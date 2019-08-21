@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Mac Os x]
+ - OS: [e.g. Mac Os X]
  - Version [e.g. 1.0.0]
 
 **Additional context**
